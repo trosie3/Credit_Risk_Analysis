@@ -4,8 +4,8 @@
 The purpose of this analysis is find the best fit machine learning model to predit credit risk for those appying for loans. For this model the ideal outcome is a method that predicts high-risk well. Methods analyzed for best model: Over-sampling RandomOverSampler and SMOTE, Under-sampling ClusterCentroids, Combined-sampling methord SMOTEEENN, and ensemble methods of BalancedRandomForestClassifier and EasyEnsembleClassifier.
 
 ## Results: 
-Model evualtion numbers by method:
-- Random
+Model evaluation by method:
+- RandomOverSampler
 
 ![image](https://github.com/trosie3/Credit_Risk_Analysis/blob/main/Resources/images/ros.png)
 
